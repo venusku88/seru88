@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://venusku88.github.io/seru88/sitemap.xml
